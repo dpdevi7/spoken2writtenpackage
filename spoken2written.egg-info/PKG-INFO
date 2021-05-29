@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: spoken2written
+Version: 0.0.1
+Summary: converts spoken english to written english form.
+Home-page: UNKNOWN
+Author: Devi Prasad
+Author-email: dp.devi03@gmail.com
+License: MIT
+Description: 
+        
+        
+Keywords: spoken to written english
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
