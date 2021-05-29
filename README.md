@@ -6,8 +6,7 @@ The package can be installed from pypi.org
 
 In order to use this package you need to follow below steps
 
-import devispoken2written
-
-o = devispoken2written.Spoken2Written()
-converted_sent = o.convert(sentence)
+1. import devispoken2written
+2. o = devispoken2written.Spoken2Written()
+3. converted_sent = o.convert(sentence)
 
